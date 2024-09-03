@@ -6,7 +6,6 @@ class Programmer:
         self.salary = salary
         self.pin = pin
 
-
 p = Programmer("Dipika", 1200000, 711302)
 print(p.name, p.salary, p.pin, p.company)
 r = Programmer("Atrika", 1200000, 711302)
